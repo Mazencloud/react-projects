@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d3544da4-a72f-40d0-86a7-f37284dbe9dc/deploy-status)](https://app.netlify.com/sites/react-online-ecommerce/deploys)
+
 # Online E-Commerce Store using React.js
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
