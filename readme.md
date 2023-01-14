@@ -1,37 +1,14 @@
-[![Demo](https://api.netlify.com/api/v1/badges/d3544da4-a72f-40d0-86a7-f37284dbe9dc/deploy-status)](https://react-online-ecommerce.netlify.app/)
+# Tic Tac Toe Game
 
-# Online E-Commerce Store using React.js
+In this project, I've created a tic tac toe game using react with hooks.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-## Available Scripts
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![gif](https://i.postimg.cc/Bb45CCcQ/React-App.gif?raw=true)
 ## Tech Stack
 
-**languages:** HTML , JAVASCRIPT\
-**Frameworks**: React.js, styled-components
-
-## Features
-
-- Clean code
-- User-Friendly
-- Responsive
-
-
+**languages:** HTML , CSS , Javascript , React with hooks
 ## 🚀 About Me
-I am a frontend developer with skills in a variety of coding languages and design tools. competent in writing secure, clean code that is customized to the requirements of each customer. concentrated on providing creative, user-friendly designs that please clients.
+I am a full-stack engineer with skills in a variety of coding languages and design tools. competent in writing secure, clean code that is customized to the requirements of each customer. concentrated on providing creative, user-friendly designs that please clients.
 
 
 ## 🔗 Links
