@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d3544da4-a72f-40d0-86a7-f37284dbe9dc/deploy-status)](https://react-online-ecommerce.netlify.app/)
+[![Demo](https://api.netlify.com/api/v1/badges/d3544da4-a72f-40d0-86a7-f37284dbe9dc/deploy-status)](https://react-online-ecommerce.netlify.app/)
 
 # Online E-Commerce Store using React.js
 
